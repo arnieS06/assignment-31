@@ -1,2 +1,2 @@
 # assignment-31
-class
+This assignment is meant to show polymorphism
